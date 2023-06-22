@@ -7,6 +7,6 @@ My first repository
   The Karate Kid
 : The Karate Kid is a 1984 American martial arts drama film written by Robert Mark Kamen and directed by John G. Avildsen. It is the first installment in the Karate Kid franchise, and stars Ralph Macchio, Pat Morita, Elisabeth Shue and William Zabka. The Karate Kid follows the story of Daniel LaRusso (Macchio), an Italian-American teenager who moves with his widowed mother to the Reseda neighborhood of Los Angeles.
 
-	Extraction 2 [^1]
+Extraction 2. [^1]
 
 [^1]: Extraction 2 is a 2023 American action thriller film directed by Sam Hargrave and written by Joe Russo, based on the graphic novel Ciudad by Ande Parks, Joe Russo, Anthony Russo, Fernando León González, and Eric Skillman. It is a sequel to the 2020 film Extraction, and Chris Hemsworth, Golshifteh Farahani and Adam Bessa reprise their roles, with Olga Kurylenko, Daniel Bernhardt, Tinatin Dalakishvili and Idris Elba joining the cast.
